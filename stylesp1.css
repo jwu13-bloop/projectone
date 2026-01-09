@@ -1,0 +1,22 @@
+h1 {
+color: green;
+font-size: 30px;
+}
+
+h5 {
+color: aqua;
+font-size: 30px;
+background-color: pink;
+}
+
+#nice {
+color: yellow;
+font-size: 40px;
+background: blue;
+}
+
+.good {
+color: red;
+font-size: 40px;
+background: black;
+}
